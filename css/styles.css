@@ -1,9 +1,13 @@
-img {
-  float: left;
+h1 {
+  text-align: center;
 }
 
+.column {
+  width: 400px;
+  float: left;
+  }
+
 .sidebar {
-  width: 30%;
-  float: right;
-  
-}
+  width: 10%;
+  float: left;
+  }
